@@ -3,12 +3,18 @@ In this Project the main objective is to create a sketched image from normal
 image and can also smooth the image in any image of jpg and png formats. This 
 is helpful on generating the sketch of any image given to the system and also 
 helpful in Changing background of the image with any color.
+
 Algorithms:
 • Numpy
+
 • Imageio
+
 • Matplot.lib
+
 • Tkinter
+
 • Open source cv2
+
 • Smooth Gray scale
 
 
